@@ -10,7 +10,7 @@ const App = ()=>{
   alive()
   return (
     <View>
-      <Text>님 안녕하세요</Text>
+      <Text>{auth().currentUser.email} 님 안녕하세요</Text>
 
     </View>
   )
@@ -48,7 +48,7 @@ function signin(email,pass){
   auth()
   .signInWithEmailAndPassword(email, pass)
   .then(() => {
-    console.log('User account created & signed in!');
+    console.log('User account signed in!');
   })
 }
 

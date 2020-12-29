@@ -1119,6 +1119,11 @@
   resolved "https://registry.yarnpkg.com/@react-native-firebase/database/-/database-10.3.1.tgz#e976f848b6834e46cf4dc2e2dd9776ef756f88a8"
   integrity sha512-ORJ+ByLKz6SMSWYLZxrDTPyW3ekjfrR6CK+3TkwXyTjtjgWsy3xNcBodC9k3DsGcg3daM3OjZPGihLOtxbRvzA==
 
+"@react-native-firebase/messaging@^10.3.1":
+  version "10.3.1"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/messaging/-/messaging-10.3.1.tgz#f764295ccb6fe97747dda097810d6d9c94b6c6c2"
+  integrity sha512-Ls1nkmP5YvD3nV5Vq7gwxu77TgaVGwuDc8jZB2AgpPWc1mse8/xkqRMuZ/ZXd3oPfuUiu1dlxET9SB2YrAR/Mw==
+
 "@sinonjs/commons@^1.7.0":
   version "1.8.1"
   resolved "https://registry.yarnpkg.com/@sinonjs/commons/-/commons-1.8.1.tgz#e7df00f98a203324f6dc7cc606cad9d4a8ab2217"

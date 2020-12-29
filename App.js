@@ -10,7 +10,7 @@ const App = ()=>{
   alive()
   return (
     <View>
-      <Text>님 안녕하세요</Text>
+      <Text>{auth().currentUser.email}님 안녕하세요</Text>
 
     </View>
   )

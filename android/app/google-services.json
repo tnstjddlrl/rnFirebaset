@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "901361108447",
+    "firebase_url": "https://reacttest-4504f-default-rtdb.firebaseio.com",
+    "project_id": "reacttest-4504f",
+    "storage_bucket": "reacttest-4504f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901361108447:android:619526d06ac31f1bf1706a",
+        "android_client_info": {
+          "package_name": "com.firetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901361108447-guq5a92p7bkdpae9jhsdphc4667uiq6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDbQcYC-ivmgaN5OG5nmRbsd2OFwqWkCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901361108447-guq5a92p7bkdpae9jhsdphc4667uiq6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
